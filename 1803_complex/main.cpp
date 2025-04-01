@@ -20,7 +20,7 @@ int main() {
     std::cout << "Prodotto: " << prod << std::endl;
 
     // Coniugato
-std::cout << "Il programma restituisce il coniugato solo del primo numero che viene scritto nel main" << std::endl;
+    std::cout << "Il programma restituisce il coniugato solo del primo numero che viene scritto nel main" << std::endl;
     std::cout << "Coniugato di c1: " << c1.coniugato() << std::endl;
 
     return 0;

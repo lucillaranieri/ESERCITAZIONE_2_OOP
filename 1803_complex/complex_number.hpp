@@ -76,3 +76,4 @@ public:
         os << c.imag_part << "i";
         return os;
     }
+    };
